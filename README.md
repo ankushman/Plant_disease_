@@ -6,7 +6,8 @@ This Streamlit web app predicts whether a plant is **diseased** or **healthy** b
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the deployed app](https://saptak-plant-disease-prediction.streamlit.app/)
+👉 [Click here to use the deployed app]
+(https://plantdisease-ekpmzc7zuvzapukowmwhne.streamlit.app/)
 
 ---
 
